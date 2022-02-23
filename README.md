@@ -7,10 +7,20 @@
 I'm
 Shivansh Thakur
 a student of 2nd year and a full stack developer.
+
 Cureently pursuing my BTech from Lovely Professional University in CSE AI/ML.
+
 I my currently living in Ujjain, Madhya Pradesh, India.
+
 I have keen intreset in C, HTML, CSS, JAVASCRIPT, JAVA, PYTHON, WEB DEVELOPMENT.
+
 I know 3 languages - ENGLISH, HINDI AND FRENCH.
+
+
+Languages and Tools: 
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
+
 
 
 
