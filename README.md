@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivansh-thakur-563aa7223//(https://www.linkedin.com/in/shivansh-thakur-563aa7223/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivansh-thakur-563aa7223/)](https://www.linkedin.com/in/shivansh-thakur-563aa7223/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Shivansh-green)](https://www.shivansh)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shivansh-yellow)](https://stackoverflow.com/users/18196864/shivansh)
 
@@ -16,12 +16,7 @@ I know 3 languages - ENGLISH, HINDI AND FRENCH.
 
 ![Visitor Count](https://profile-counter.glitch.me/Shivansh83/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>
+
 
 
 
