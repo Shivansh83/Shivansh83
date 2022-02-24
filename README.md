@@ -8,11 +8,13 @@ I'm
 Shivansh Thakur
 a student of 2nd year and a full stack developer.
 
-Cureently pursuing my BTech from Lovely Professional University in CSE AI/ML.
+Currently pursuing my BTech from Lovely Professional University in CSE AI/ML.
 
 I my currently living in Ujjain, Madhya Pradesh, India.
 
 I have keen intreset in C, HTML, CSS, JAVASCRIPT, JAVA, PYTHON, WEB DEVELOPMENT.
+
+Also I am an Intern at Edureka.
 
 I know 3 languages - ENGLISH, HINDI AND FRENCH.
 
