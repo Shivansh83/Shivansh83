@@ -4,9 +4,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Shivansh-green)](https://www.shivansh)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shivansh-yellow)](https://stackoverflow.com/users/18196864/shivansh)
 
-I'm
-Shivansh Thakur
-a student of 2nd year and a full stack developer.
+
+A student of 2nd year and a full stack developer.
 
 Currently pursuing my BTech from Lovely Professional University in CSE AI/ML.
 
