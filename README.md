@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivansh-thakur-563aa7223/)](https://www.linkedin.com/in/shivansh-thakur-563aa7223/)
 [![Instagram Badge](https://img.shields.io/badge/-Shivansh-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/i_shivansh2.0/)](https://www.instagram.com/i_shivansh2.0/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Shivansh-green)](https://www.shivansh)
+[![Website Badge](https://img.shields.io/badge/WebSite-Shivansh-green)](https://shivansh83.github.io/shivanshprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shivansh-yellow)](https://stackoverflow.com/users/18196864/shivansh)
 
 
